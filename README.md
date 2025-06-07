@@ -6,7 +6,7 @@
 
 ---
 
-## 🔍 Research Question
+## Research Question
 
 **What types of power outages tend to affect the highest number of people, and how do these types differ by region?**
 
