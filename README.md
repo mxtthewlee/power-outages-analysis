@@ -14,7 +14,7 @@ This project investigates how different categories of power outages (e.g. weathe
 
 ---
 
-## 🧹 Data Cleaning
+## Data Cleaning
 
 We began by cleaning the dataset to:
 - Remove metadata/header artifacts
@@ -23,7 +23,7 @@ We began by cleaning the dataset to:
 
 ---
 
-## 📊 Exploratory Data Analysis
+## Exploratory Data Analysis
 
 We explored distributions of:
 - Outage causes and sub-causes
@@ -32,7 +32,7 @@ We explored distributions of:
 
 ---
 
-## 📈 Key Visualization
+## Key Visualization
 
 <iframe src="assets/customers_by_cause_and_region.html" width="100%" height="600" frameborder="0"></iframe>
 
@@ -40,7 +40,7 @@ This interactive plot shows how the number of customers affected varies by outag
 
 ---
 
-## 🤔 Conclusion
+## Conclusion
 
 Weather is the leading cause of power outages that affect large populations. However, regional differences are significant — for example, the MRO and SERC regions experience more outages due to natural causes, while WECC regions show a broader mix of causes.
 
@@ -48,14 +48,14 @@ Understanding these patterns can help utilities and policymakers target infrastr
 
 ---
 
-## 💻 Technologies Used
+## Technologies Used
 - Python (Pandas, Plotly, Matplotlib)
 - Jupyter Notebook
 - GitHub Pages
 
 ---
 
-## 📁 Files
+## Files
 
 - `template.ipynb`: Main analysis notebook
 - `assets/customers_by_cause_and_region.html`: Interactive bar chart
